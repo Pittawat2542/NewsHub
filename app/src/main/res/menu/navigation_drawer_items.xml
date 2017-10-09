@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/navItem1"
+            android:icon="@drawable/ic_question_answer_black_24dp"
+            android:title="Sanook" />
+        <item
+            android:id="@+id/navItem2"
+            android:icon="@drawable/ic_question_answer_black_24dp"
+            android:title="Kapook" />
+
+        <item
+            android:id="@+id/navItem3"
+            android:icon="@drawable/ic_question_answer_black_24dp"
+            android:title="Post Today" />
+
+        <item
+            android:id="@+id/navItem4"
+            android:icon="@drawable/ic_question_answer_black_24dp"
+            android:title="Beartai" />
+
+        <item
+            android:id="@+id/navItem5"
+            android:icon="@drawable/ic_question_answer_black_24dp"
+            android:title="Manager Online" />
+    </group>
+
+</menu>

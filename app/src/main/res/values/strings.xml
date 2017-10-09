@@ -1,0 +1,53 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">NewsHub</string>
+    <string name="action_settings_1">Thai</string>
+    <string name="action_settings_2">Vietnamese</string>
+    <string name="action_about">About</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="error_no_internet">ERROR (4) : No internet connection</string>
+    <string name="noti_reload">Reload data Successful\!</string>
+
+
+    <!-- About Text -->
+    <string name="about_title">NewsHub</string>
+    <string name="about_version">v.1.0.0</string>
+    <string name="about_head">About</string>
+    <string name="about_changelog">Changelog:</string>
+    <string name="about_line_1">\n- Fixed stability.</string>
+    <string name="about_line_2">- Fixed News Description error.</string>
+    <string name="about_line_3">- Redesign of CardView.</string>
+    <string name="about_line_4">- Fixed About\'s page.</string>
+    <string name="about_line_5">- Fixed Background Loading.</string>
+    <string name="about_line_6">- Fixed Pull to Refresh.</string>
+    <string name="about_line_7">- Fixed News Downloading.</string>
+    <string name="about_line_8">- Added Tabs\'s Collapsing.</string>
+    <string name="about_line_9">- Fixed Co-working of system.</string>
+    <string name="about_line_10">- Fixed Page changing.</string>
+    <string name="about_line_11">- Added English Support.</string>
+    <string name="about_line_12">- Added Vietnamese Support.</string>
+    <string name="about_credit_1">Designed and built by Pittawat Taveekitwarachai.</string>
+    <string name="about_credit_2">© 2016 NewsHub All Rights Reserved.</string>
+
+    <!-- News agencies -->
+    <string-array name="news_agency">
+        <item>SkyNews</item>
+        <item>ABC</item>
+        <item>CBC News</item>
+        <item>UN News Centre</item>
+        <item>MIT News</item>
+    </string-array>
+
+    <!-- Language Settings -->
+    <string-array name="lang">
+        <item>English</item>
+        <item>Thai</item>
+        <item>Vietnamese</item>
+    </string-array>
+
+    <!-- Settings Text -->
+    <string name="settings_head">Settings</string>
+
+    <!-- Website List -->
+    <string name="a_website">http://rssfeeds.sanook.com/rss/feeds/sanook/news.index.xml</string>
+</resources>

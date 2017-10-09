@@ -1,0 +1,37 @@
+<resources>
+    <!-- General -->
+    <string name="error_no_internet">ERROR (4) : Không có kết nối Internet</string>
+    <string name="noti_reload">Cập nhật lại dữ liệu thành công\!</string>
+    <string name="action_settings_1">English</string>
+    <string name="action_settings_2">Thai</string>
+
+    <!-- About Text -->
+    <string name="about_head">Trong khoảng</string>
+    <string name="about_changelog">thay đổi đăng nhập:</string>
+    <string name="about_line_1">\n- ổn định cố định</string>
+    <string name="about_line_2">- Cố định lỗi Mô tả tin tức</string>
+    <string name="about_line_3">- Thiết kế lại của CardView</string>
+    <string name="about_line_4">- Cố định Về trang</string>
+    <string name="about_line_5">- Cố định nền tải</string>
+    <string name="about_line_6">- Cố định Pull Refresh</string>
+    <string name="about_line_7">- Cố định Tin tức Tải</string>
+    <string name="about_line_8">-  tăng lên Tabs sụp đổ</string>
+    <string name="about_line_9">- Cố định Hợp tác làm việc của hệ thống</string>
+    <string name="about_line_10">- Cố định thay đổi trang</string>
+    <string name="about_credit_1">thiết kế và xây dựng bởi Pittawat Tavekitwarachai</string>
+    <string name="about_credit_2">© 2016 NewsHub Tất cả các quyền</string>
+
+    <!-- News agencies -->
+    <string-array name="news_agency">
+        <item>24h</item>
+        <item>VNExpress</item>
+        <item>Công An Nhân Dân</item>
+        <item>Báo Yên Bái</item>
+        <item>VOA</item>
+    </string-array>
+
+    <!-- Settings Text -->
+    <string name="settings_head">cài đặt</string>
+    <string name="about_line_11">- thêm hỗ trợ tiếng anh</string>
+    <string name="about_line_12">- thêm hỗ trợ tiếng việt</string>
+</resources>

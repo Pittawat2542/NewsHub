@@ -1,0 +1,40 @@
+<resources>
+    <!-- General -->
+    <string name="error_no_internet">ERROR (4) : ไม่มีการเชื่อมต่ออินเทอร์เน็ต</string>
+    <string name="noti_reload">รีเฟรชข้อมูลเสร็จสิ้น\!</string>
+    <string name="action_settings_1">English</string>
+    <string name="action_settings_2">Vietnamese</string>
+
+    <!-- About Text -->
+    <string name="about_head">เกี่ยวกับ</string>
+    <string name="about_changelog">บันทึกการเปลี่ยนแปลง:</string>
+    <string name="about_line_1">\n- แก้ไขความเสถียรของระบบ</string>
+    <string name="about_line_2">- แก้ไขข้อผิดพลาดเมื่อข่าวไม่มีรายละเอียด</string>
+    <string name="about_line_3">- ออกแบบส่วนติดต่อผู้ใช้ของ CardView ใหม่</string>
+    <string name="about_line_4">- ปรับปรุงหน้าเกี่ยวกับ</string>
+    <string name="about_line_5">- ปรับปรุงดาวน์โหลดเบื้องหลัง</string>
+    <string name="about_line_6">- ปรับปรุงการดึงเพื่อรีเฟรช</string>
+    <string name="about_line_7">- ปรับปรุงการดาวน์โหลดข่าว</string>
+    <string name="about_line_8">- เพิ่มการเลือนหายของแท็บ</string>
+    <string name="about_line_9">- ปรับปรุงการทำงานร่วมกันระหว่างแต่ละส่วน</string>
+    <string name="about_line_10">- ปรับรุงประสิทธิภาพของการเปลี่ยนหน้า</string>
+    <string name="about_credit_1">ออกแบบและสร้างสรรค์โดย พิทวัส ทวีกิจวรชัย</string>
+    <string name="about_credit_2">© 2016 NewsHub สงวนลิขสิทธิ์</string>
+
+    <!-- News agencies -->
+    <string-array name="news_agency">
+        <item>Sanook</item>
+        <item>Kapook</item>
+        <item>DroidSans</item>
+        <item>เนชั่น</item>
+        <item>คมชัดลึก</item>
+        <item>ไทยรัฐ</item>
+        <!--<item>Pantip</item>
+        <item>Blognone</item>-->
+    </string-array>
+
+    <!-- Settings Text -->
+    <string name="settings_head">ตั้งค่า</string>
+    <string name="about_line_11">- รองรับภาษาอังกฤษ</string>
+    <string name="about_line_12">- รองรับภาษาเวียดนาม</string>
+</resources>
